@@ -1,5 +1,5 @@
 # sound-synthesis
 
-A Jupyter Notebook to synthesize sound.  
+A simple Jupyter Notebook to synthesize and analyze sound tones.   
 
 
